@@ -26,6 +26,8 @@ int main()
 	// Function Declarations 
 	int priority(string, int);
 
+
+	// Test Text
 	string test = "Genetic Lifeform\n";
 
 
